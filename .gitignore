@@ -3,3 +3,4 @@ logs/
 dbt_packages/
 .env
 profiles.yml
+venv
