@@ -1,0 +1,7 @@
+sources:
+  - name: stripe
+    schema: public
+    database: postgres
+    tables:
+      - name: payments
+        identifier: stripe_payments
