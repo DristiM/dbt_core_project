@@ -4,3 +4,4 @@ dbt_packages/
 .env
 profiles.yml
 venv
+dbt_internal_packages/
